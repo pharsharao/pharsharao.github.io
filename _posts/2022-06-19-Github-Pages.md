@@ -6,6 +6,7 @@ categories: misc
 
 ## Steps to create similar website
 
+
 1.Fork a Jekyll Theme.
 2.Go to Repository Settings>Pages and enter your URL.
 3.Install VS code,Git,Github extensions and setup remote Workspace.
