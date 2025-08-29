@@ -8,7 +8,7 @@ categories: misc
 
 This project showcases Selenium automation testing implemented using the Page Object Model (POM) design pattern in Java. It leverages TestNG as the testing framework to manage test execution and assertions. The project supports cross-browser testing on both Chrome and Firefox browsers.
 
-Key highlights include:
+Key highlights include: (https://github.com/pharsharao/page-model-selenium)
 
     Implementation of the Page Object Model (POM) for better test code organization, maintainability, and reusability
 
