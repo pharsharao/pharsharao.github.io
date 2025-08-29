@@ -12,4 +12,4 @@ categories: misc
 4. Edit the default texts and delete unwanted files.
 5. Create a markdown file in Posts folder.
 6. Commit the changes to main branch.
-7. Visit your Website.
+7. Visit your Website. https://github.com/pharsharao
